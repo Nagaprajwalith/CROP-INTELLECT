@@ -1,6 +1,6 @@
 # 🌾 Crop Intellect – ML-Driven Crop Recommendation Platform
 
-![Crop Intellect Banner](https://imgur.com/your-banner-placeholder.png) <!-- You can upload an image/banner to Imgur or GitHub and replace this link -->
+
 
 [![Live Site](https://img.shields.io/badge/Live%20App-Visit-green?style=for-the-badge)](https://crop-intellect.onrender.com)
 [![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Nagaprajwalith/CROP-INTELLECT)
