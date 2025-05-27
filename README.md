@@ -32,16 +32,6 @@
 
 ---
 
-## 🖼️ Screenshots
-
-| Home Page | Crop Recommendation |
-|-----------|---------------------|
-| ![Home](https://imgur.com/your-home-page.png) | ![Result](https://imgur.com/your-result-page.png) |
-
-> 🔧 *Replace the image URLs above with your own screenshots hosted on GitHub or Imgur.*
-
----
-
 ## 📂 Project Structure
 
 ```bash
